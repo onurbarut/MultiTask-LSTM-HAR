@@ -1,5 +1,5 @@
 # MultiTask-LSTM-HAR
-This is the implementation of the paper "Multitask LSTM Model for Human Activity Recognition and Intensity Estimation Using Wearable Sensor Data" (IEEE IoT Journal), 2020.
+This is the implementation of the paper ["Multitask LSTM Model for Human Activity Recognition and Intensity Estimation Using Wearable Sensor Data" (IEEE IoT Journal), 2020](https://ieeexplore.ieee.org/abstract/document/9098923)
 
 ## Dataset
 
